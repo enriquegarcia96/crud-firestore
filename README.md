@@ -1,27 +1,14 @@
-C:\Users\USER\Pictures\Screenpresso\2021-03-29_15h39_17.gif
+#link del proyecto: https://crud-react-5e1d5.web.app
 
-# Crud de tareas -> link del proyecto : https://crud-react-5e1d5.web.app
+# IMAGENES DE QUE TRATA EL PROYECTO
+![image](https://user-images.githubusercontent.com/46203192/112903872-57aea900-90a5-11eb-9cc8-3465ca0a77e8.png)
+![image](https://user-images.githubusercontent.com/46203192/112903918-69904c00-90a5-11eb-916b-660ef312bc21.png)
 
-# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
